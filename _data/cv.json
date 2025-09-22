@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Ziwen Wang",
+    "email": "zw6wang@uwaterloo.ca",
+    "phone": "",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently under the supervision of Levent Tuncel, working on optimization.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Waterloo",
+      "countryCode": "CA",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=S4XPQOMAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "http://orcid.org/yourorcidurl"
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "area": "MMath in Combinatorics & Optimization",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2026",
+      "gpa": 99,
+      "courses": ["Semidefinite Programming", "Algorithmic Spectral Graph Theory", "Randomized Algorithm"]
+    },
+    {
+      "institution": "University Of Waterloo",
+      "area": "Bachelor in Computer Science and Combinatorics & Optimization",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2025",
+      "gpa": 90,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "ACPO: AI-Enabled Compiler-Driven Program Optimization",
+      "publisher": "TACO",
+      "releaseDate": "2023",
+      "website": "https://arxiv.org/pdf/2312.09982",
+      "summary": "ACPO: An AIEnabled Compiler Framework, a novel framework that provides LLVM with simple and comprehensive tools to benefit from employing ML models for different optimization passes."
+    }
+  ],
+  "presentations": [
+  ],
+  "teaching": [
+    {
+      "course": "TA",
+      "institution": "University Of Waterloo",
+      "date": "2025-09-01",
+      "role": "CO 250 Introduction to Optimization",
+      "description": ""
+    },
+    {
+      "course": "TA",
+      "institution": "University Of Waterloo",
+      "date": "2025-09-01",
+      "role": "CO 456 Introduction to Game Theory",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "",
+      "category": "",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
+  ]
+}
