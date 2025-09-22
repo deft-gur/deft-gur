@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+excerpt: "A brief overview of my background and interests."
 ---
 Hello there, I am currently a MMath student at University of Waterloo under
 supervision of Levent Tuncel. Prior to this I also did my undergraduate at
