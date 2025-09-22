@@ -9,7 +9,6 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-remote_theme             : mmistakes/minimal-mistakes
 title                    : "Ziwen Wang"
 title_separator          : "-"
 name                     : &name "Ziwen Wang"
